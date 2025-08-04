@@ -57,7 +57,7 @@ Deve retornar: 160 (o único elemento par)
 Escreva a função:
 
 ```java
-// Utilitário FactorialUtil.
+// Utilitário FactorialUtil
 static int zeros(int n)
 ```
 
